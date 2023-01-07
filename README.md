@@ -1,2 +1,2 @@
-# JavaFX
-Exemplos de Aplicação Básica do JavaFX 
+# Aplicações Básicas com JavaFX
+
